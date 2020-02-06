@@ -1,0 +1,9 @@
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\bin\Debug\MiPrimerProyectoWindowsForm4.exe.config
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\bin\Debug\MiPrimerProyectoWindowsForm4.exe
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\bin\Debug\MiPrimerProyectoWindowsForm4.pdb
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\obj\Debug\MiPrimerProyectoWindowsForm4.csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\obj\Debug\MiPrimerProyectoWindowsForm4.Form1.resources
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\obj\Debug\MiPrimerProyectoWindowsForm4.Properties.Resources.resources
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\obj\Debug\MiPrimerProyectoWindowsForm4.csproj.GenerateResource.Cache
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\obj\Debug\MiPrimerProyectoWindowsForm4.exe
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoWindowsForm4\obj\Debug\MiPrimerProyectoWindowsForm4.pdb

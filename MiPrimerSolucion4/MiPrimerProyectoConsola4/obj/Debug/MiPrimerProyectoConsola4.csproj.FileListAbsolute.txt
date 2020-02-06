@@ -1,0 +1,6 @@
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoConsola4\bin\Debug\MiPrimerProyectoConsola4.exe.config
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoConsola4\bin\Debug\MiPrimerProyectoConsola4.exe
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoConsola4\bin\Debug\MiPrimerProyectoConsola4.pdb
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoConsola4\obj\Debug\MiPrimerProyectoConsola4.csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoConsola4\obj\Debug\MiPrimerProyectoConsola4.exe
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\POO 2DO SM\MiPrimerSolucion4\MiPrimerProyectoConsola4\obj\Debug\MiPrimerProyectoConsola4.pdb
