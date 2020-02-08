@@ -1,0 +1,9 @@
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe.config
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\bin\Debug\Embotelladora.pdb
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\Maritza\Documents\Visual Studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.frmEmbotelladora.resources
