@@ -1,0 +1,8 @@
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\bin\Debug\Embotelladora.exe.config
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\obj\Debug\Embotelladora.frmEmbotelladora.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\bin\Debug\Embotelladora.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\bin\Debug\Embotelladora.pdb
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\obj\Debug\Embotelladora.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Embotelladora\obj\Debug\Embotelladora.pdb

@@ -1,0 +1,9 @@
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\bin\Debug\Concierto.exe.config
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\bin\Debug\Concierto.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\bin\Debug\Concierto.pdb
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.csprojResolveAssemblyReference.cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.frmConcierto.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.Properties.Resources.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.csproj.GenerateResource.Cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.pdb

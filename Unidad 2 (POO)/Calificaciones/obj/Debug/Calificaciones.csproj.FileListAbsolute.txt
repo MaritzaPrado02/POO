@@ -1,0 +1,9 @@
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\bin\Debug\Calificaciones.exe.config
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\bin\Debug\Calificaciones.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\bin\Debug\Calificaciones.pdb
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.csprojResolveAssemblyReference.cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.frmCalificaciones.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.exe
+c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.pdb
