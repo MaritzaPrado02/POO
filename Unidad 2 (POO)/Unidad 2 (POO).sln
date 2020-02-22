@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concierto", "Concierto\Conc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captura de datos", "Captura de datos\Captura de datos.csproj", "{3BCF8E1D-7F5D-4D38-93A1-FDD7D1D46B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimetro y Area", "Perimetro y Area\Perimetro y Area.csproj", "{1022BB16-6841-4303-8684-29EFC368154D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertidorGrados", "ConvertidorGrados\ConvertidorGrados.csproj", "{F2A20A86-BD47-412A-8892-6898CE3A23A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{3BCF8E1D-7F5D-4D38-93A1-FDD7D1D46B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BCF8E1D-7F5D-4D38-93A1-FDD7D1D46B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BCF8E1D-7F5D-4D38-93A1-FDD7D1D46B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1022BB16-6841-4303-8684-29EFC368154D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1022BB16-6841-4303-8684-29EFC368154D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1022BB16-6841-4303-8684-29EFC368154D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1022BB16-6841-4303-8684-29EFC368154D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A20A86-BD47-412A-8892-6898CE3A23A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A20A86-BD47-412A-8892-6898CE3A23A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A20A86-BD47-412A-8892-6898CE3A23A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A20A86-BD47-412A-8892-6898CE3A23A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

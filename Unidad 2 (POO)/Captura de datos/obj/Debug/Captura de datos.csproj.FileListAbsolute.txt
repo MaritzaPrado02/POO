@@ -8,3 +8,6 @@ C:\Users\Maritza\Documents\Visual Studio 2015\Projects\Unidad 2 (POO)\Captura de
 C:\Users\Maritza\Documents\Visual Studio 2015\Projects\Unidad 2 (POO)\Captura de datos\obj\Debug\Captura de datos.pdb
 C:\Users\Maritza\Documents\Visual Studio 2015\Projects\Unidad 2 (POO)\Captura de datos\obj\Debug\Captura de datos.csprojResolveAssemblyReference.cache
 C:\Users\Maritza\Documents\Visual Studio 2015\Projects\Unidad 2 (POO)\Captura de datos\obj\Debug\Captura_de_datos.VentanaDeInforme.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Captura de datos\bin\Debug\Captura de datos.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Captura de datos\obj\Debug\Captura de datos.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Captura de datos\obj\Debug\Captura de datos.pdb

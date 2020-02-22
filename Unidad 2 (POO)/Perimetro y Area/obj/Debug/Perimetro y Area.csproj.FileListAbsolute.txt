@@ -1,0 +1,9 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\bin\Debug\Perimetro y Area.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\bin\Debug\Perimetro y Area.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\bin\Debug\Perimetro y Area.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\obj\Debug\Perimetro y Area.csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\obj\Debug\Perimetro_y_Area.frmCuadrado.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\obj\Debug\Perimetro_y_Area.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\obj\Debug\Perimetro y Area.csproj.GenerateResource.Cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\obj\Debug\Perimetro y Area.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Perimetro y Area\obj\Debug\Perimetro y Area.pdb
