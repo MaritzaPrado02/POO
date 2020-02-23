@@ -25,7 +25,7 @@ namespace ConvertidorGrados
             objGrados.sistema = Convert.ToString(cmbTemperatura.Text);
             objGrados.convertirTemperatura();
             txtResultadoConversion.Text = objGrados.conversion.ToString();
-            
+            lblGradosResultado.Text = objGrados.establecerSistema().ToString(); 
         }
 
         private void lblGradosResultado_Click(object sender, EventArgs e)

@@ -12,6 +12,7 @@ namespace ConvertidorGrados
         public string sistema;
         public double grados;
         public double conversion;
+        public string conversionSistema;
     
      
 
@@ -35,8 +36,29 @@ namespace ConvertidorGrados
             }
             return grados;
 
+
             
         }
+        public string establecerSistema()
+        {
+            switch (sistema)
+            {
+                case "Centigrados":
+                {
+                        conversionSistema = "F◦";
 
+                    break;
+                }
+                case "Fahrenheit":
+                    {
+                        conversionSistema = "C◦";
+                        break;
+                    }
+                    
+            }
+                return conversionSistema;
+
+        }
+           
     }
 }

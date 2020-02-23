@@ -1,0 +1,9 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\bin\Debug\Vacaciones Empleado.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\bin\Debug\Vacaciones Empleado.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\bin\Debug\Vacaciones Empleado.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones_Empleado.frmAñosTrabajadosEmpleado.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones_Empleado.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.csproj.GenerateResource.Cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.csprojResolveAssemblyReference.cache

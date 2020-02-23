@@ -126,10 +126,10 @@
             // lblGradosResultado
             // 
             this.lblGradosResultado.AutoSize = true;
-            this.lblGradosResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGradosResultado.Location = new System.Drawing.Point(207, 158);
+            this.lblGradosResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGradosResultado.Location = new System.Drawing.Point(207, 162);
             this.lblGradosResultado.Name = "lblGradosResultado";
-            this.lblGradosResultado.Size = new System.Drawing.Size(16, 20);
+            this.lblGradosResultado.Size = new System.Drawing.Size(14, 18);
             this.lblGradosResultado.TabIndex = 8;
             this.lblGradosResultado.Text = "◦";
             this.lblGradosResultado.Click += new System.EventHandler(this.lblGradosResultado_Click);

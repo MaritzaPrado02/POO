@@ -1,2 +1,0 @@
-# POO
-Mi primer repositorio
