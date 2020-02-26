@@ -1,0 +1,9 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\bin\Debug\Recibo Electricidad.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\bin\Debug\Recibo Electricidad.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\bin\Debug\Recibo Electricidad.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\obj\Debug\Recibo Electricidad.csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\obj\Debug\Recibo_Electricidad.frmElectridad.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\obj\Debug\Recibo_Electricidad.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\obj\Debug\Recibo Electricidad.csproj.GenerateResource.Cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\obj\Debug\Recibo Electricidad.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Recibo Electricidad\obj\Debug\Recibo Electricidad.pdb

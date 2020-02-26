@@ -1,0 +1,9 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\bin\Debug\Caseta Autopista.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\bin\Debug\Caseta Autopista.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\bin\Debug\Caseta Autopista.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\obj\Debug\Caseta Autopista.csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\obj\Debug\Caseta_Autopista.frmCaseta.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\obj\Debug\Caseta_Autopista.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\obj\Debug\Caseta Autopista.csproj.GenerateResource.Cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\obj\Debug\Caseta Autopista.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Caseta Autopista\obj\Debug\Caseta Autopista.pdb
