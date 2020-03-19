@@ -11,14 +11,14 @@ namespace Figura
         public override void calcPerimetro()
         {
             Perimetro = Lado * 4;
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
             
 
         }
         public override void calcArea()
         {
             Area = Lado * Lado;
-            throw new NotImplementedException();         
+            ///throw new NotImplementedException();         
         }
     }
 }

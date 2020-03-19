@@ -8,14 +8,68 @@ namespace Figura
 {
     class Triangulo:Figura
     {
-        string tipoTriangulo;
-        double Altura, Base, ladoA, ladoB, ladoC; 
+        double altura, baseTri, ladoA, ladoB, ladoC; 
+
+        public double Altura
+        {
+            get
+            {
+                return altura;
+            }
+            set
+            {
+                altura = value;
+            }
+        }
+        public double BaseTri
+        {
+            get
+            {
+                return baseTri;
+            }
+            set
+            {
+                baseTri = value;
+            }
+        }
+        public double LadoA
+        {
+            get
+            {
+                return ladoA;
+            }
+            set
+            {
+                ladoA = value;
+            }
+        }
+        public double LadoB
+        {
+            get
+            {
+                return ladoB;
+            }
+            set
+            {
+                ladoB = value;
+            }
+        }
+        public double LadoC
+        {
+            get
+            {
+                return ladoC;
+            }
+            set
+            {
+                ladoC = value;
+            }
+        }
 
         public Triangulo()
         {
-            tipoTriangulo = " ";
             Altura = 0;
-            Base = 0;
+            BaseTri = 0;
             ladoA = 0;
             ladoB = 0;
             ladoC = 0;
@@ -25,11 +79,11 @@ namespace Figura
 
         public override void calcPerimetro()
         {
-            throw new NotImplementedException(); 
+            //throw new NotImplementedException(); 
         }
         public override void calcArea()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }

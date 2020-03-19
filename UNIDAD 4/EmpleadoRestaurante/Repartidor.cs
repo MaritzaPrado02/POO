@@ -63,7 +63,7 @@ namespace EmpleadoRestaurante
             }
             else
             {
-                SueldoDiario = (DiasTrabajados * SueldoDiario) + (pedidosCobradosSem * 2);
+                Sueldo = (DiasTrabajados * SueldoDiario) + (pedidosCobradosSem * 2);
             }
         }
     }

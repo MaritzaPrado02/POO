@@ -29,13 +29,13 @@ namespace Figura
 
         public override void calcPerimetro()
         {
-            Perimetro = 2 * 3.14159 * radio;
-            throw new NotImplementedException(); //Manejo/control de excepciones
+            Perimetro = 2 * 3.14159 * Radio;
+            //throw new NotImplementedException(); //Manejo/control de excepciones
         }
         public override void calcArea()
         {
-            Area = 3.14159 * (radio * radio);
-            throw new NotImplementedException();
+            Area = 3.14159 * (Radio * Radio);
+            //throw new NotImplementedException();
         }
     }
 }

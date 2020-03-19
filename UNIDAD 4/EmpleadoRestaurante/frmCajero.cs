@@ -20,6 +20,14 @@ namespace EmpleadoRestaurante
 
         private void btnCalcularSueldoCaj_Click(object sender, EventArgs e)
         {
+            /*if (txtSueldoDiarioCaj == "")
+            {
+                errorProvider1.SetError(txtSueldoDiarioCaj, "Ingrese el sueldo diario");
+                txtSueldoDiarioCaj.Focus();
+                return;
+            }
+            errorProvider1.SetError(txtSueldoDiarioCaj, "");*/
+
             objCajero.SueldoDiario = double.Parse(txtSueldoDiarioCaj.Text);
             objCajero.DiasTrabajados = int.Parse(cmbDiasTrabajadosCaj.Text);
             objCajero.NumCaja = int.Parse(cmbCaja.Text);

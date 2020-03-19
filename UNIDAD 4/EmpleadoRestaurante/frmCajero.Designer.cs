@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.lblDiasTrabajadosCaj = new System.Windows.Forms.Label();
             this.lblCaja = new System.Windows.Forms.Label();
@@ -37,6 +38,8 @@
             this.cmbCaja = new System.Windows.Forms.ComboBox();
             this.lblSueldoFinalCaj = new System.Windows.Forms.Label();
             this.btnCalcularSueldoCaj = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -83,7 +86,7 @@
             // txtSueldoDiarioCaj
             // 
             this.txtSueldoDiarioCaj.Location = new System.Drawing.Point(202, 33);
-            this.txtSueldoDiarioCaj.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSueldoDiarioCaj.Margin = new System.Windows.Forms.Padding(4);
             this.txtSueldoDiarioCaj.Name = "txtSueldoDiarioCaj";
             this.txtSueldoDiarioCaj.Size = new System.Drawing.Size(148, 26);
             this.txtSueldoDiarioCaj.TabIndex = 4;
@@ -101,7 +104,7 @@
             "6",
             "7"});
             this.cmbDiasTrabajadosCaj.Location = new System.Drawing.Point(202, 82);
-            this.cmbDiasTrabajadosCaj.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbDiasTrabajadosCaj.Margin = new System.Windows.Forms.Padding(4);
             this.cmbDiasTrabajadosCaj.Name = "cmbDiasTrabajadosCaj";
             this.cmbDiasTrabajadosCaj.Size = new System.Drawing.Size(88, 26);
             this.cmbDiasTrabajadosCaj.TabIndex = 5;
@@ -114,7 +117,7 @@
             "1",
             "2"});
             this.cmbCaja.Location = new System.Drawing.Point(202, 130);
-            this.cmbCaja.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbCaja.Margin = new System.Windows.Forms.Padding(4);
             this.cmbCaja.Name = "cmbCaja";
             this.cmbCaja.Size = new System.Drawing.Size(68, 26);
             this.cmbCaja.TabIndex = 6;
@@ -145,6 +148,10 @@
             this.btnCalcularSueldoCaj.UseVisualStyleBackColor = false;
             this.btnCalcularSueldoCaj.Click += new System.EventHandler(this.btnCalcularSueldoCaj_Click);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // frmCajero
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
@@ -162,9 +169,10 @@
             this.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.SteelBlue;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmCajero";
             this.Text = "Sueldo cajero";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -181,5 +189,6 @@
         private System.Windows.Forms.ComboBox cmbCaja;
         private System.Windows.Forms.Label lblSueldoFinalCaj;
         private System.Windows.Forms.Button btnCalcularSueldoCaj;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
