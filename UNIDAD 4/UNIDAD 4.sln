@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpleadoRestaurante", "Empl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazEjercicio1", "InterfazEjercicio1\InterfazEjercicio1.csproj", "{FFC37F0B-A490-4A10-9D70-9FE63B62F512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Preguntas", "Juego Preguntas\Juego Preguntas.csproj", "{1BE70951-6414-4D35-9AAA-7A8B3FE2F510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FFC37F0B-A490-4A10-9D70-9FE63B62F512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC37F0B-A490-4A10-9D70-9FE63B62F512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC37F0B-A490-4A10-9D70-9FE63B62F512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE70951-6414-4D35-9AAA-7A8B3FE2F510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE70951-6414-4D35-9AAA-7A8B3FE2F510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE70951-6414-4D35-9AAA-7A8B3FE2F510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE70951-6414-4D35-9AAA-7A8B3FE2F510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

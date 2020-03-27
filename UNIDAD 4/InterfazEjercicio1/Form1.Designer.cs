@@ -121,7 +121,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(581, 250);
+            this.ClientSize = new System.Drawing.Size(584, 250);
             this.Controls.Add(this.txtPromedio);
             this.Controls.Add(this.txtAciertos);
             this.Controls.Add(this.txtTotalRespuestas);
