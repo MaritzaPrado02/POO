@@ -7,3 +7,6 @@ C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).csproj.GenerateResource.Cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).pdb
+C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).exe.config
+C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).exe
+C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).pdb

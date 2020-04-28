@@ -141,5 +141,10 @@ namespace MiPrimeraClase_Video_
             return false;
             //throw new NotImplementedException();
         }
+
+        private void tsBarraHerramientas_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

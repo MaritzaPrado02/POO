@@ -59,6 +59,7 @@
             this.tsBarraHerramientas.Size = new System.Drawing.Size(642, 82);
             this.tsBarraHerramientas.TabIndex = 0;
             this.tsBarraHerramientas.Text = "tsNuevo";
+            this.tsBarraHerramientas.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tsBarraHerramientas_ItemClicked);
             // 
             // tsbNuevo
             // 
