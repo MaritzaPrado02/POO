@@ -1,0 +1,10 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.frmNumeros.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.pdb
