@@ -1,0 +1,9 @@
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\bin\Debug\ProgramaTorneo.exe.config
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\bin\Debug\ProgramaTorneo.exe
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\bin\Debug\ProgramaTorneo.pdb
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\obj\Debug\ProgramaTorneo.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\obj\Debug\ProgramaTorneo.frmTorneo.resources
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\obj\Debug\ProgramaTorneo.Properties.Resources.resources
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\obj\Debug\ProgramaTorneo.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\obj\Debug\ProgramaTorneo.exe
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\ProgramaTorneo\obj\Debug\ProgramaTorneo.pdb
