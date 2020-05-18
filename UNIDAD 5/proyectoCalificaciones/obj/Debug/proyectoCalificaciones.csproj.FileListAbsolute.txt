@@ -1,0 +1,10 @@
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\bin\Debug\proyectoCalificaciones.exe.config
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\bin\Debug\proyectoCalificaciones.exe
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\bin\Debug\proyectoCalificaciones.pdb
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.frmDatos.resources
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.Properties.Resources.resources
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.exe
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.pdb
+C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.frmInforme.resources

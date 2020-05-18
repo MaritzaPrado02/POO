@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramaTorneo", "ProgramaT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizSumaFCD", "MatrizSumaFCD\MatrizSumaFCD.csproj", "{D13F4ED0-CCEC-4C17-8767-EB211160C894}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyectoCalificaciones", "proyectoCalificaciones\proyectoCalificaciones.csproj", "{C3CFA5C7-A77F-4593-A9DA-1E3FE3C7E1DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D13F4ED0-CCEC-4C17-8767-EB211160C894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D13F4ED0-CCEC-4C17-8767-EB211160C894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D13F4ED0-CCEC-4C17-8767-EB211160C894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CFA5C7-A77F-4593-A9DA-1E3FE3C7E1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CFA5C7-A77F-4593-A9DA-1E3FE3C7E1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CFA5C7-A77F-4593-A9DA-1E3FE3C7E1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CFA5C7-A77F-4593-A9DA-1E3FE3C7E1DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
