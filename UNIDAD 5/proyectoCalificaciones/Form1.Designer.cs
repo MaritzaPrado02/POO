@@ -244,6 +244,7 @@
             this.txtMateria.Name = "txtMateria";
             this.txtMateria.Size = new System.Drawing.Size(140, 20);
             this.txtMateria.TabIndex = 2;
+            this.txtMateria.TextChanged += new System.EventHandler(this.txtMateria_TextChanged);
             // 
             // btnCapturarMateria
             // 

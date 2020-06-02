@@ -43,8 +43,8 @@
             this.lblFechaNacimiento = new System.Windows.Forms.Label();
             this.lblNombre = new System.Windows.Forms.Label();
             this.btnSeleccionar = new System.Windows.Forms.Button();
-            this.btnImprimir = new System.Windows.Forms.Button();
             this.grbDatosEspecificos = new System.Windows.Forms.GroupBox();
+            this.nudCantidadMaterias = new System.Windows.Forms.NumericUpDown();
             this.btnRegistrar = new System.Windows.Forms.Button();
             this.txtSC = new System.Windows.Forms.TextBox();
             this.txtNumero = new System.Windows.Forms.TextBox();
@@ -53,15 +53,15 @@
             this.lblNumero = new System.Windows.Forms.Label();
             this.grbMaterias = new System.Windows.Forms.GroupBox();
             this.txtCalificacion = new System.Windows.Forms.TextBox();
+            this.btnCapturar = new System.Windows.Forms.Button();
             this.txtMateria = new System.Windows.Forms.TextBox();
             this.lblCalificacion = new System.Windows.Forms.Label();
             this.lblNombreMateria = new System.Windows.Forms.Label();
-            this.btnCapturar = new System.Windows.Forms.Button();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.btnGuardar = new System.Windows.Forms.Button();
-            this.nudCantidadMaterias = new System.Windows.Forms.TextBox();
             this.grbDatosGenerales.SuspendLayout();
             this.grbDatosEspecificos.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudCantidadMaterias)).BeginInit();
             this.grbMaterias.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
@@ -101,7 +101,7 @@
             this.grbDatosGenerales.Controls.Add(this.lblNombre);
             this.grbDatosGenerales.Location = new System.Drawing.Point(12, 78);
             this.grbDatosGenerales.Name = "grbDatosGenerales";
-            this.grbDatosGenerales.Size = new System.Drawing.Size(243, 275);
+            this.grbDatosGenerales.Size = new System.Drawing.Size(243, 311);
             this.grbDatosGenerales.TabIndex = 2;
             this.grbDatosGenerales.TabStop = false;
             this.grbDatosGenerales.Text = "Datos generales";
@@ -207,20 +207,6 @@
             this.btnSeleccionar.UseVisualStyleBackColor = true;
             this.btnSeleccionar.Click += new System.EventHandler(this.btnSeleccionar_Click);
             // 
-            // btnImprimir
-            // 
-            this.btnImprimir.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnImprimir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnImprimir.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnImprimir.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.btnImprimir.Location = new System.Drawing.Point(469, 445);
-            this.btnImprimir.Name = "btnImprimir";
-            this.btnImprimir.Size = new System.Drawing.Size(75, 23);
-            this.btnImprimir.TabIndex = 4;
-            this.btnImprimir.Text = "Imprimir";
-            this.btnImprimir.UseVisualStyleBackColor = true;
-            this.btnImprimir.Click += new System.EventHandler(this.btnImprimir_Click);
-            // 
             // grbDatosEspecificos
             // 
             this.grbDatosEspecificos.Controls.Add(this.nudCantidadMaterias);
@@ -236,6 +222,28 @@
             this.grbDatosEspecificos.TabIndex = 0;
             this.grbDatosEspecificos.TabStop = false;
             this.grbDatosEspecificos.Text = "Datos especificos";
+            // 
+            // nudCantidadMaterias
+            // 
+            this.nudCantidadMaterias.Location = new System.Drawing.Point(41, 135);
+            this.nudCantidadMaterias.Maximum = new decimal(new int[] {
+            12,
+            0,
+            0,
+            0});
+            this.nudCantidadMaterias.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.nudCantidadMaterias.Name = "nudCantidadMaterias";
+            this.nudCantidadMaterias.Size = new System.Drawing.Size(42, 20);
+            this.nudCantidadMaterias.TabIndex = 8;
+            this.nudCantidadMaterias.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
             // btnRegistrar
             // 
@@ -293,12 +301,13 @@
             // grbMaterias
             // 
             this.grbMaterias.Controls.Add(this.txtCalificacion);
+            this.grbMaterias.Controls.Add(this.btnCapturar);
             this.grbMaterias.Controls.Add(this.txtMateria);
             this.grbMaterias.Controls.Add(this.lblCalificacion);
             this.grbMaterias.Controls.Add(this.lblNombreMateria);
             this.grbMaterias.Location = new System.Drawing.Point(261, 242);
             this.grbMaterias.Name = "grbMaterias";
-            this.grbMaterias.Size = new System.Drawing.Size(285, 111);
+            this.grbMaterias.Size = new System.Drawing.Size(285, 147);
             this.grbMaterias.TabIndex = 5;
             this.grbMaterias.TabStop = false;
             this.grbMaterias.Text = "Materias";
@@ -309,6 +318,20 @@
             this.txtCalificacion.Name = "txtCalificacion";
             this.txtCalificacion.Size = new System.Drawing.Size(116, 20);
             this.txtCalificacion.TabIndex = 3;
+            // 
+            // btnCapturar
+            // 
+            this.btnCapturar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCapturar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCapturar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCapturar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.btnCapturar.Location = new System.Drawing.Point(107, 112);
+            this.btnCapturar.Name = "btnCapturar";
+            this.btnCapturar.Size = new System.Drawing.Size(75, 23);
+            this.btnCapturar.TabIndex = 6;
+            this.btnCapturar.Text = "Capturar";
+            this.btnCapturar.UseVisualStyleBackColor = true;
+            this.btnCapturar.Click += new System.EventHandler(this.btnCapturar_Click);
             // 
             // txtMateria
             // 
@@ -336,20 +359,6 @@
             this.lblNombreMateria.TabIndex = 0;
             this.lblNombreMateria.Click += new System.EventHandler(this.label9_Click);
             // 
-            // btnCapturar
-            // 
-            this.btnCapturar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnCapturar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCapturar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCapturar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnCapturar.Location = new System.Drawing.Point(368, 359);
-            this.btnCapturar.Name = "btnCapturar";
-            this.btnCapturar.Size = new System.Drawing.Size(75, 23);
-            this.btnCapturar.TabIndex = 6;
-            this.btnCapturar.Text = "Capturar";
-            this.btnCapturar.UseVisualStyleBackColor = true;
-            this.btnCapturar.Click += new System.EventHandler(this.btnCapturar_Click);
-            // 
             // errorProvider1
             // 
             this.errorProvider1.ContainerControl = this;
@@ -358,33 +367,23 @@
             // 
             this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGuardar.ForeColor = System.Drawing.Color.Red;
-            this.btnGuardar.Location = new System.Drawing.Point(229, 399);
+            this.btnGuardar.Location = new System.Drawing.Point(429, 406);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(75, 23);
+            this.btnGuardar.Size = new System.Drawing.Size(115, 23);
             this.btnGuardar.TabIndex = 7;
-            this.btnGuardar.Text = "Guardar";
+            this.btnGuardar.Text = "Guardar e Imprimir";
             this.btnGuardar.UseVisualStyleBackColor = true;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
-            // 
-            // nudCantidadMaterias
-            // 
-            this.nudCantidadMaterias.Location = new System.Drawing.Point(36, 137);
-            this.nudCantidadMaterias.Name = "nudCantidadMaterias";
-            this.nudCantidadMaterias.Size = new System.Drawing.Size(43, 20);
-            this.nudCantidadMaterias.TabIndex = 8;
-            this.nudCantidadMaterias.TextChanged += new System.EventHandler(this.nudCantidadMaterias_TextChanged);
             // 
             // frmDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(556, 480);
+            this.ClientSize = new System.Drawing.Size(556, 441);
             this.Controls.Add(this.btnGuardar);
-            this.Controls.Add(this.btnCapturar);
             this.Controls.Add(this.grbMaterias);
             this.Controls.Add(this.grbDatosEspecificos);
-            this.Controls.Add(this.btnImprimir);
             this.Controls.Add(this.btnSeleccionar);
             this.Controls.Add(this.grbDatosGenerales);
             this.Controls.Add(this.cmbOcupacion);
@@ -396,6 +395,7 @@
             this.grbDatosGenerales.PerformLayout();
             this.grbDatosEspecificos.ResumeLayout(false);
             this.grbDatosEspecificos.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudCantidadMaterias)).EndInit();
             this.grbMaterias.ResumeLayout(false);
             this.grbMaterias.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
@@ -417,7 +417,6 @@
         private System.Windows.Forms.Label lblFechaNacimiento;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Button btnSeleccionar;
-        private System.Windows.Forms.Button btnImprimir;
         private System.Windows.Forms.GroupBox grbDatosEspecificos;
         private System.Windows.Forms.GroupBox grbMaterias;
         private System.Windows.Forms.Button btnCapturar;
@@ -436,7 +435,7 @@
         private System.Windows.Forms.ErrorProvider errorProvider1;
         private System.Windows.Forms.Button btnRegistrar;
         private System.Windows.Forms.Button btnGuardar;
-        private System.Windows.Forms.TextBox nudCantidadMaterias;
+        private System.Windows.Forms.NumericUpDown nudCantidadMaterias;
     }
 }
 

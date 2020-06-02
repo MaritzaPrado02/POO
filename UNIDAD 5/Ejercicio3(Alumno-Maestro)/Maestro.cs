@@ -15,24 +15,23 @@ namespace Ejercicio3_Alumno_Maestro_
             fechaNacimiento = DateTime.Today;
             curp = " ";
             telefono = 0;
-            eMail = " ";       
-
+            eMail = " ";
+            cantidadMateriasMaestro = 0;
         }
-        public int cantidadMaterias { get; set; }      
-        public int numeroMaetro { get; set; }
+        public int numeroMaestro { get; set; }
         public double sueldo { get; set; }
         public string[] materias { get; set; }
+        public int cantidadMateriasMaestro { get; set; }
 
-        
-        
-            public string imprimirDatosMaestro()
+
+        public string imprimirDatosMaestro()
         {
 
-            var cadena = "Materias" + "\n ";
+            var cadena = "Nombre: " + nombre + "\nMaterias" + "\n " + "\nFecha de nacimiento: " + fechaNacimiento.ToString() + "\nCurp: " + curp + "\nTelefono: " + telefono + "\nE-mail: " + eMail + "\nNúmero de maestro: " + numeroMaestro + "\nSueldo: " + sueldo + "\nMaterias " + "\n ";
 
-            for (int i = 0; i < cantidadMaterias; i++)
+            for (int i = 0; i < materias.Length; i++)
             {
-                cadena += materias[i] + "\n ";
+                cadena += materias[i] + "\n";
 
             }
             return cadena;

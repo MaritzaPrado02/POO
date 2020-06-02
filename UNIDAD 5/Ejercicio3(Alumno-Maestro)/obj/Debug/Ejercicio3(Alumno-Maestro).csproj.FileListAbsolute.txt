@@ -7,3 +7,12 @@ C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio3(Alumno-Maestro
 C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csproj.GenerateResource.Cache
 C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).exe
 C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).pdb
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\bin\Debug\Ejercicio3(Alumno-Maestro).exe.config
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\bin\Debug\Ejercicio3(Alumno-Maestro).exe
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\bin\Debug\Ejercicio3(Alumno-Maestro).pdb
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3_Alumno_Maestro_.frmDatos.resources
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3_Alumno_Maestro_.Properties.Resources.resources
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).exe
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).pdb
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csprojAssemblyReference.cache

@@ -457,6 +457,11 @@ namespace proyectoCalificaciones
                 Informe.lblNumControlIIA.Text = numControlMA_IIA.ToString();
                 Informe.lblPromedioFinalIIA.Text = mejorPromedioIIA.ToString();
             }
+
+        private void txtMateria_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
