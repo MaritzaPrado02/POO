@@ -1,3 +1,0 @@
-Ejemplo de Streams
-Segunda linea
-Tercera linea

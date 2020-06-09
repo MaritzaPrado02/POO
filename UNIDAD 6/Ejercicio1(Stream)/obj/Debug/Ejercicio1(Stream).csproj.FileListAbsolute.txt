@@ -1,8 +1,0 @@
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\bin\Debug\Ejercicio1(Stream).exe.config
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\bin\Debug\Ejercicio1(Stream).exe
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\bin\Debug\Ejercicio1(Stream).pdb
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\obj\Debug\Ejercicio1(Stream).csprojAssemblyReference.cache
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\obj\Debug\Ejercicio1(Stream).csproj.CoreCompileInputs.cache
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\obj\Debug\Ejercicio1(Stream).exe
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\obj\Debug\Ejercicio1(Stream).pdb
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 6\Ejercicio1(Stream)\bin\Debug\archivo.txt

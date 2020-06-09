@@ -33,7 +33,7 @@ namespace Ejercicio4_Alumnos_Maestros_
             objMaestro.nombre = new string[cantidadMaestros];
             objMaestro.fechaNacimiento = new DateTime[cantidadMaestros];
             objMaestro.curp = new string[cantidadMaestros];
-            objMaestro.telefono = new int[cantidadMaestros];
+            objMaestro.telefono = new long[cantidadMaestros];
             objMaestro.eMail = new string[cantidadMaestros];
             objMaestro.numeroMaestro= new int[cantidadMaestros];
             objMaestro.sueldo = new double[cantidadMaestros];
@@ -166,7 +166,7 @@ namespace Ejercicio4_Alumnos_Maestros_
                 objMaestro.nombre[cont] = txtNombre.Text;
                 objMaestro.fechaNacimiento[cont] = dtpFechaNacimiento.Value;
                 objMaestro.curp[cont] = txtCurp.Text;
-                objMaestro.telefono[cont] = int.Parse(txtTelefono.Text);
+                objMaestro.telefono[cont] = long.Parse(txtTelefono.Text);
                 objMaestro.eMail[cont] = txtEmail.Text;
                 objMaestro.numeroMaestro[cont] = int.Parse(txtNumero.Text);
                 objMaestro.sueldo[cont] = double.Parse(txtSC.Text);

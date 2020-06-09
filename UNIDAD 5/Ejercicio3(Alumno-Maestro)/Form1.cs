@@ -293,7 +293,7 @@ namespace Ejercicio3_Alumno_Maestro_
                 objAlumno.nombre = txtNombre.Text;
                 objAlumno.fechaNacimiento = dtpFechaNacimiento.Value;
                 objAlumno.curp = txtCurp.Text;
-                objAlumno.telefono = int.Parse(txtTelefono.Text);
+                objAlumno.telefono = long.Parse(txtTelefono.Text);
                 objAlumno.eMail = txtEmail.Text;
                 objAlumno.numeroControl = int.Parse(txtNumero.Text);
                 objAlumno.carrera = txtSC.Text;
@@ -306,6 +306,7 @@ namespace Ejercicio3_Alumno_Maestro_
                 {
                     objMaestro.nombre = txtNombre.Text;
                     objMaestro.fechaNacimiento = dtpFechaNacimiento.Value;
+                    objAlumno.telefono = long.Parse(txtTelefono.Text);
                     objMaestro.curp = txtCurp.Text;
                     objMaestro.eMail = txtEmail.Text;
                     objMaestro.numeroMaestro = int.Parse(txtNumero.Text);

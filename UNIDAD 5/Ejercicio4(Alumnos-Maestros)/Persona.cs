@@ -11,7 +11,7 @@ namespace Ejercicio4_Alumnos_Maestros_
         public string[] nombre { get; set; }
         public DateTime[] fechaNacimiento { get; set; }
         public string[] curp { get; set; }
-        public int[] telefono { get; set; }
+        public long[] telefono { get; set; }
         public string[] eMail { get; set; }
     }
 }

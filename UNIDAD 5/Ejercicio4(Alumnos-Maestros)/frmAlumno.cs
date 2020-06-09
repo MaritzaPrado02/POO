@@ -33,7 +33,7 @@ namespace Ejercicio4_Alumnos_Maestros_
             objAlumno.nombre = new string[cantidadAlumnos];
             objAlumno.fechaNacimiento = new DateTime[cantidadAlumnos];
             objAlumno.curp = new string[cantidadAlumnos];
-            objAlumno.telefono = new int[cantidadAlumnos];
+            objAlumno.telefono = new long[cantidadAlumnos];
             objAlumno.eMail = new string[cantidadAlumnos];
             objAlumno.numeroControl = new int[cantidadAlumnos];
             objAlumno.carrera = new string[cantidadAlumnos];
@@ -132,7 +132,7 @@ namespace Ejercicio4_Alumnos_Maestros_
             objAlumno.materias = new string[cantidadAlumnos,objAlumno.cantidadMateriasAlumno];
             objAlumno.calificacion = new double[cantidadAlumnos,objAlumno.cantidadMateriasAlumno];
 
-            cont = 0;
+            
             btnRegistrar.Enabled = false;
             nudCantidadMaterias.Enabled = false;
         }
@@ -184,7 +184,7 @@ namespace Ejercicio4_Alumnos_Maestros_
                 objAlumno.nombre[cont] = txtNombre.Text;
                 objAlumno.fechaNacimiento[cont] = dtpFechaNacimiento.Value;
                 objAlumno.curp[cont] = txtCurp.Text;
-                objAlumno.telefono[cont] = int.Parse(txtTelefono.Text);
+                objAlumno.telefono[cont] = long.Parse(txtTelefono.Text);
                 objAlumno.eMail[cont] = txtEmail.Text;
                 objAlumno.numeroControl[cont] = int.Parse(txtNumero.Text);
                 objAlumno.carrera[cont] = txtSC.Text;
@@ -226,8 +226,14 @@ namespace Ejercicio4_Alumnos_Maestros_
             {
                 string datos = objAlumno.imprimirDatosAlumno();
                 datosAlumno += datos + Environment.NewLine;
+                objAlumno.j++;
             }
             MessageBox.Show(datosAlumno, "Datos Alumnos");
+        }
+
+        private void btnImprimir_Click(object sender, EventArgs e)
+        {
+            ImprimirDatosAlumno();
         }
     }
 }

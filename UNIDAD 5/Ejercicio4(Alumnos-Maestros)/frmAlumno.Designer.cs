@@ -394,6 +394,7 @@
             this.btnImprimir.TabIndex = 15;
             this.btnImprimir.Text = "Imprimir";
             this.btnImprimir.UseVisualStyleBackColor = true;
+            this.btnImprimir.Click += new System.EventHandler(this.btnImprimir_Click);
             // 
             // frmAlumno
             // 
