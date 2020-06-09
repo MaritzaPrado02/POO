@@ -1,9 +1,9 @@
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\bin\Debug\InterfazEjercicio1.exe.config
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\bin\Debug\InterfazEjercicio1.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\bin\Debug\InterfazEjercicio1.pdb
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.csprojResolveAssemblyReference.cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.frmExamen.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.Properties.Resources.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.csproj.GenerateResource.Cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\InterfazEjercicio1\obj\Debug\InterfazEjercicio1.csproj.CoreCompileInputs.cache

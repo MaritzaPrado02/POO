@@ -1,0 +1,9 @@
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\bin\Debug\MiPrimeraClaseVideoUnidad6.exe.config
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\bin\Debug\MiPrimeraClaseVideoUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\bin\Debug\MiPrimeraClaseVideoUnidad6.pdb
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\obj\Debug\MiPrimeraClaseVideoUnidad6.csprojAssemblyReference.cache
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\obj\Debug\MiPrimeraClaseVideoUnidad6.frmPersonas.resources
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\obj\Debug\MiPrimeraClaseVideoUnidad6.Properties.Resources.resources
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\obj\Debug\MiPrimeraClaseVideoUnidad6.csproj.GenerateResource.cache
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\obj\Debug\MiPrimeraClaseVideoUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\MiPrimeraClaseVideoUnidad6\obj\Debug\MiPrimeraClaseVideoUnidad6.pdb

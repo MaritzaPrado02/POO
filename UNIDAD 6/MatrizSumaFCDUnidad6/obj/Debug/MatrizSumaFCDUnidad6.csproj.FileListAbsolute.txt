@@ -1,0 +1,9 @@
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\bin\Debug\MatrizSumaFCDUnidad6.exe.config
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\bin\Debug\MatrizSumaFCDUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\bin\Debug\MatrizSumaFCDUnidad6.pdb
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\obj\Debug\MatrizSumaFCDUnidad6.csprojAssemblyReference.cache
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\obj\Debug\MatrizSumaFCDUnidad6.frmMatrizSumaFCD.resources
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\obj\Debug\MatrizSumaFCDUnidad6.Properties.Resources.resources
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\obj\Debug\MatrizSumaFCDUnidad6.csproj.GenerateResource.cache
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\obj\Debug\MatrizSumaFCDUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\MatrizSumaFCDUnidad6\obj\Debug\MatrizSumaFCDUnidad6.pdb

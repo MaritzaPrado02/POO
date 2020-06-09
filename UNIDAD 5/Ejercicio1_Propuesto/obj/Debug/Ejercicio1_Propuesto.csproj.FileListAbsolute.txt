@@ -13,3 +13,10 @@ C:\Users\Maritza\Desktop\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Prop
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe.config
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.frmCombinacionColores.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csproj.CoreCompileInputs.cache

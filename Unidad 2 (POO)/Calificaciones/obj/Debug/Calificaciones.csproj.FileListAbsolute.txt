@@ -7,3 +7,13 @@ c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaci
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.exe
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.frmCalificaciones.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Calificaciones\obj\Debug\Calificaciones.pdb

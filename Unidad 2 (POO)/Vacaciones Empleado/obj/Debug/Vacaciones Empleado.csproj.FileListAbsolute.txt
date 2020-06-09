@@ -6,4 +6,4 @@ C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Emple
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.csproj.GenerateResource.Cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.pdb
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Vacaciones Empleado\obj\Debug\Vacaciones Empleado.csproj.CoreCompileInputs.cache

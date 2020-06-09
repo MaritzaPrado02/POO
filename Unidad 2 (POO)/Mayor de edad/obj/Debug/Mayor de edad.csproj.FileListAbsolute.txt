@@ -1,5 +1,4 @@
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\bin\Debug\Mayor de edad.exe.config
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor de edad.csprojResolveAssemblyReference.cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor_de_edad.Form1.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor_de_edad.Properties.Resources.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor de edad.csproj.GenerateResource.Cache
@@ -7,3 +6,4 @@ C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\bi
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\bin\Debug\Mayor de edad.pdb
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor de edad.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor de edad.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Mayor de edad\obj\Debug\Mayor de edad.csproj.CoreCompileInputs.cache

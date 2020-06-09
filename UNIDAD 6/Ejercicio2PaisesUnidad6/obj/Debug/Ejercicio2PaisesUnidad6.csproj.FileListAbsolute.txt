@@ -1,0 +1,9 @@
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\bin\Debug\Ejercicio2PaisesUnidad6.exe.config
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\bin\Debug\Ejercicio2PaisesUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\bin\Debug\Ejercicio2PaisesUnidad6.pdb
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\obj\Debug\Ejercicio2PaisesUnidad6.csprojAssemblyReference.cache
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\obj\Debug\Ejercicio2PaisesUnidad6.frmDatosPaises.resources
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\obj\Debug\Ejercicio2PaisesUnidad6.Properties.Resources.resources
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\obj\Debug\Ejercicio2PaisesUnidad6.csproj.GenerateResource.cache
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\obj\Debug\Ejercicio2PaisesUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\Ejercicio2PaisesUnidad6\obj\Debug\Ejercicio2PaisesUnidad6.pdb

@@ -1,10 +1,10 @@
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\bin\Debug\Juego Preguntas.exe.config
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\bin\Debug\Juego Preguntas.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\bin\Debug\Juego Preguntas.pdb
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego Preguntas.csprojResolveAssemblyReference.cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego_Preguntas.frmInicio.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego_Preguntas.Properties.Resources.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego Preguntas.csproj.GenerateResource.Cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego Preguntas.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego Preguntas.pdb
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego_Preguntas.Juego.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Juego Preguntas\obj\Debug\Juego Preguntas.csproj.CoreCompileInputs.cache

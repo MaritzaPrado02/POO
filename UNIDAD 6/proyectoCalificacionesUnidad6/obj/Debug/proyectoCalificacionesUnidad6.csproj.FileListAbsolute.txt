@@ -1,0 +1,10 @@
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\bin\Debug\proyectoCalificacionesUnidad6.exe.config
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\bin\Debug\proyectoCalificacionesUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\bin\Debug\proyectoCalificacionesUnidad6.pdb
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.csprojAssemblyReference.cache
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.frmDatos.resources
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.frmInforme.resources
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.Properties.Resources.resources
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.csproj.GenerateResource.cache
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\proyectoCalificacionesUnidad6\obj\Debug\proyectoCalificacionesUnidad6.pdb

@@ -7,3 +7,13 @@ C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio1(Pais)\obj\Debu
 C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).csproj.GenerateResource.Cache
 C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).exe
 C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\bin\Debug\Ejercicio1(Pais).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\bin\Debug\Ejercicio1(Pais).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\bin\Debug\Ejercicio1(Pais).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1_Pais_.frmRegistrarPais.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1_Pais_.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1(Pais)\obj\Debug\Ejercicio1(Pais).pdb

@@ -1,7 +1,6 @@
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\bin\Debug\Figura.exe.config
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\bin\Debug\Figura.exe
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\bin\Debug\Figura.pdb
-C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura Geometricas.csprojResolveAssemblyReference.cache
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura.frmFigura.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura.Properties.Resources.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura Geometricas.csproj.GenerateResource.Cache
@@ -12,3 +11,4 @@ C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figur
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura.frmTri_Escaleno.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura.frmTri_Isoceles.resources
 C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura.frmCirculo.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Figura\obj\Debug\Figura Geometricas.csproj.CoreCompileInputs.cache

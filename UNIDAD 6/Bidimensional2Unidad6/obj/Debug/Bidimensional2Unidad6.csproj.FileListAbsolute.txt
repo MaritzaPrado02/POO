@@ -1,0 +1,9 @@
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\bin\Debug\Bidimensional2Unidad6.exe.config
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\bin\Debug\Bidimensional2Unidad6.exe
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\bin\Debug\Bidimensional2Unidad6.pdb
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\obj\Debug\Bidimensional2Unidad6.csprojAssemblyReference.cache
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\obj\Debug\Bidimensional2Unidad6.frmBidimensional.resources
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\obj\Debug\Bidimensional2Unidad6.Properties.Resources.resources
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\obj\Debug\Bidimensional2Unidad6.csproj.GenerateResource.cache
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\obj\Debug\Bidimensional2Unidad6.exe
+D:\POO CATALOGO\UNIDAD 6\Bidimensional2Unidad6\obj\Debug\Bidimensional2Unidad6.pdb

@@ -7,3 +7,13 @@ c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.csproj.GenerateResource.Cache
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.exe
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\bin\Debug\Concierto.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\bin\Debug\Concierto.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\bin\Debug\Concierto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.frmConcierto.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad 2 (POO)\Concierto\obj\Debug\Concierto.pdb

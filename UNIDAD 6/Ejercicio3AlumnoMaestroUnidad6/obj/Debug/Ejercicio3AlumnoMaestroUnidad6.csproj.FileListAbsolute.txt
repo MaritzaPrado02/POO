@@ -1,0 +1,9 @@
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.exe.config
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.pdb
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\obj\Debug\Ejercicio3AlumnoMaestroUnidad6.csprojAssemblyReference.cache
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\obj\Debug\Ejercicio3AlumnoMaestroUnidad6.frmDatos.resources
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\obj\Debug\Ejercicio3AlumnoMaestroUnidad6.Properties.Resources.resources
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\obj\Debug\Ejercicio3AlumnoMaestroUnidad6.csproj.GenerateResource.cache
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\obj\Debug\Ejercicio3AlumnoMaestroUnidad6.exe
+D:\POO CATALOGO\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\obj\Debug\Ejercicio3AlumnoMaestroUnidad6.pdb

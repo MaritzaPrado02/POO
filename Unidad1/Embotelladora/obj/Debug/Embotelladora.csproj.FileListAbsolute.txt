@@ -7,3 +7,13 @@ c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.exe
 c:\users\maritza\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.pdb
 C:\Users\Maritza\Documents\Visual Studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.frmEmbotelladora.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\bin\Debug\Embotelladora.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.frmEmbotelladora.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\Unidad1\Embotelladora\obj\Debug\Embotelladora.pdb

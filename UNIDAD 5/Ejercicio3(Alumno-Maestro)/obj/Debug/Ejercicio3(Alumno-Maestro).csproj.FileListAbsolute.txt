@@ -16,3 +16,13 @@ C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Al
 C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).exe
 C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).pdb
 C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\bin\Debug\Ejercicio3(Alumno-Maestro).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\bin\Debug\Ejercicio3(Alumno-Maestro).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\bin\Debug\Ejercicio3(Alumno-Maestro).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3_Alumno_Maestro_.frmDatos.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3_Alumno_Maestro_.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio3(Alumno-Maestro)\obj\Debug\Ejercicio3(Alumno-Maestro).pdb

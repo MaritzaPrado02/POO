@@ -20,3 +20,15 @@ D:\1. POO 5\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_M
 D:\1. POO 5\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csproj.GenerateResource.cache
 D:\1. POO 5\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).exe
 D:\1. POO 5\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.Form1.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.frmAlumno.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.frmMaestro.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).pdb

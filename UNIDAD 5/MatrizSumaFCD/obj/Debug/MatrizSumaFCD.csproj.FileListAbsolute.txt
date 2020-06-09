@@ -7,3 +7,13 @@ C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFC
 C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csproj.GenerateResource.cache
 C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.exe
 C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\bin\Debug\MatrizSumaFCD.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\bin\Debug\MatrizSumaFCD.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\bin\Debug\MatrizSumaFCD.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.frmMatrizSumaFCD.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.pdb

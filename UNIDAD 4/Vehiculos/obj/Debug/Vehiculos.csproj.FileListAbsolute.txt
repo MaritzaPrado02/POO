@@ -7,3 +7,12 @@ c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 4\Vehiculos\obj\De
 c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.csproj.GenerateResource.Cache
 c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.exe
 c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\bin\Debug\Vehiculos.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\bin\Debug\Vehiculos.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\bin\Debug\Vehiculos.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.frmVehiculo.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 4\Vehiculos\obj\Debug\Vehiculos.pdb

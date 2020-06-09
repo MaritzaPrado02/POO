@@ -8,3 +8,14 @@ C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\pro
 C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.exe
 C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.pdb
 C:\Users\prado\OneDrive\Escritorio\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.frmInforme.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\bin\Debug\proyectoCalificaciones.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\bin\Debug\proyectoCalificaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\bin\Debug\proyectoCalificaciones.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.frmDatos.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.frmInforme.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\proyectoCalificaciones\obj\Debug\proyectoCalificaciones.pdb
