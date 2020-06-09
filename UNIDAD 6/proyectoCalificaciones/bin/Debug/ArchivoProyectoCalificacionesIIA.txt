@@ -1,0 +1,15 @@
+Nombre: Yesenia Gomez
+No. Control: 171160089
+Materias 
+Alimentos : 7
+Carnicos: 8
+Promedio: 7.5
+
+Nombre: Juan Lopez Arias
+No. Control: 181140087
+Materias 
+Alimentos : 5
+Carnicos: 7
+Promedio: 6
+
+

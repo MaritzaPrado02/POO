@@ -1,0 +1,3 @@
+Combinaciones realizadas
+Rojo + Amarillo = Naranja
+Amarillo + Naranja = Amarillo Naranja

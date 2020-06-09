@@ -1,0 +1,19 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\bin\Debug\Bidimensional2(1).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\bin\Debug\Bidimensional2(1).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\bin\Debug\Bidimensional2(1).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2(1).csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2_1_.Form1.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2_1_.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2(1).csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2(1).csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2(1).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Bidimensional2(1)\obj\Debug\Bidimensional2(1).pdb
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\bin\Debug\Bidimensional2(1).exe.config
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\bin\Debug\Bidimensional2(1).exe
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\bin\Debug\Bidimensional2(1).pdb
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\obj\Debug\Bidimensional2(1).csprojAssemblyReference.cache
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\obj\Debug\Bidimensional2_1_.frmBidimensional.resources
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\obj\Debug\Bidimensional2_1_.Properties.Resources.resources
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\obj\Debug\Bidimensional2(1).csproj.GenerateResource.cache
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\obj\Debug\Bidimensional2(1).exe
+D:\2. POO 6\UNIDAD 6\Bidimensional2(1)\obj\Debug\Bidimensional2(1).pdb

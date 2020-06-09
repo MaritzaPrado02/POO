@@ -1,0 +1,14 @@
+Nombre: Juan Perez Robles
+ 
+Fecha de nacimiento: 25/05/1994 08:51:50 p. m.
+Curp: PEROJU940525MJUW
+Telefono: 3241055789
+E-mail: juan@gmail.com
+Número de maestro: 2346532
+Sueldo: 3600
+Materias 
+ Historia
+Artes
+Ingles
+
+

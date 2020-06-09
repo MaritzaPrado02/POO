@@ -1,0 +1,21 @@
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).csprojResolveAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase_Video_.frmPersonas.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase_Video_.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).csproj.GenerateResource.Cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).pdb
+C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).exe.config
+C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).exe
+C:\Users\Maritza\Desktop\Unidad 5 actualizada\UNIDAD 5\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).pdb
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).exe.config
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).exe
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\bin\Debug\MiPrimeraClase(Video).pdb
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).csprojAssemblyReference.cache
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase_Video_.frmPersonas.resources
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase_Video_.Properties.Resources.resources
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).csproj.GenerateResource.cache
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).exe
+D:\2. POO 6\UNIDAD 6\MiPrimeraClase(Video)\obj\Debug\MiPrimeraClase(Video).pdb

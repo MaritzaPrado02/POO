@@ -1,0 +1,2 @@
+La nota 1 del segundo alumno del grupo 1 es {0}: 2
+La nota 2 del tercer alumno del grupo 1 es {0}: 3

@@ -1,0 +1,24 @@
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe.config
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.pdb
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csprojResolveAssemblyReference.cache
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.frmCombinacionColores.resources
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.Properties.Resources.resources
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csproj.GenerateResource.Cache
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.exe
+c:\users\maritza\documents\visual studio 2015\Projects\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.pdb
+C:\Users\Maritza\Desktop\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe.config
+C:\Users\Maritza\Desktop\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.exe
+C:\Users\Maritza\Desktop\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\UNIDAD 5\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.pdb
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe.config
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.exe
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\bin\Debug\Ejercicio1_Propuesto.pdb
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csprojAssemblyReference.cache
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.frmCombinacionColores.resources
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.Properties.Resources.resources
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.csproj.GenerateResource.cache
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.exe
+D:\2. POO 6\UNIDAD 6\Ejercicio1_Propuesto\obj\Debug\Ejercicio1_Propuesto.pdb

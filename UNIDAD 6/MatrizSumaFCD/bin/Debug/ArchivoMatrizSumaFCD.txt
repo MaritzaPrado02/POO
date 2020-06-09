@@ -1,0 +1,17 @@
+Matriz
+
+4 6 3 5 2 
+6 7 3 5 2 
+6 2 6 2 6 
+3 6 3 6 3 
+6 3 6 3 7 
+
+
+La suma de las filas es: 20 , 23 , 22 , 21 , 25 , 
+La suma de la suma de las filas es: 111
+
+La suma de las columnas es: 25 , 24 , 21 , 21 , 20 , 
+La suma de la suma de las columnas es: 111
+
+Los elementos de la diagonal son: 4 , 7 , 6 , 6 , 7 , 
+La suma de los elementos de la diagonal es: 30

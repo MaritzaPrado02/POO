@@ -1,0 +1,25 @@
+Nombre: Ana Lopez Gomez
+No. Control: 191140090
+Materias 
+Ingles: 6
+Historia: 8
+Matemáticas: 4
+Promedio: 6
+
+Nombre: Luis Espinoza
+No. Control: 191140019
+Materias 
+Ingles: 8
+Historia: 8
+Matemáticas: 9
+Promedio: 8.33333333333333
+
+Nombre: Angel Peraza Hernandez
+No. Control: 1911400960
+Materias 
+Ingles: 5
+Historia: 9
+Matemáticas: 5
+Promedio: 6.33333333333333
+
+

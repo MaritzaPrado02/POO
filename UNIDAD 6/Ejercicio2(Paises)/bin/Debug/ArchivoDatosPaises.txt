@@ -1,0 +1,16 @@
+ Pais: Angola
+ Habitantes: 23552
+ Idioma: Armenio	
+ Colores: Verde, Blanco, Rojo, 
+
+ Pais: Antigua y Barbuda
+ Habitantes: 234636
+ Idioma: Finlandés
+ Colores: Blanco, Negro, Rojo, 
+
+ Pais: Austria
+ Habitantes: 24563
+ Idioma: Chino
+ Colores: Amarillo, Blanco, Azul, 
+
+

@@ -1,0 +1,2 @@
+Número mayor: 12
+Número menor: 3

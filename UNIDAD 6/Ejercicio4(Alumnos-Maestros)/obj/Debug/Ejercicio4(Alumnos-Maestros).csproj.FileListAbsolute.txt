@@ -1,0 +1,22 @@
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.Form1.resources
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.frmAlumno.resources
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.frmMaestro.resources
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.Properties.Resources.resources
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).exe.config
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).exe
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).pdb
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).exe
+C:\Users\prado\OneDrive\Escritorio\Archivos programación\UNIDAD 5\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).pdb
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csprojAssemblyReference.cache
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.Form1.resources
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.frmAlumno.resources
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.frmMaestro.resources
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4_Alumnos_Maestros_.Properties.Resources.resources
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).csproj.GenerateResource.cache
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).exe
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\obj\Debug\Ejercicio4(Alumnos-Maestros).pdb
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).exe.config
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).exe
+D:\2. POO 6\UNIDAD 6\Ejercicio4(Alumnos-Maestros)\bin\Debug\Ejercicio4(Alumnos-Maestros).pdb

@@ -1,0 +1,23 @@
+Nombre: Juan Torres Jimenez
+Fecha de nacimiento: 12/06/1989 09:45:51 p. m.
+Curp: TOJIJU890612DEA90
+Telefono: 3241067899
+E-mail: juantorres@gmail.com
+Número de maestro: 234552
+Sueldo: 400
+Materias 
+Historia
+ Ingles
+
+Nombre: Ana Lopez Gomez
+Fecha de nacimiento: 04/06/1989 09:45:51 p. m.
+Curp: LOGOAN890604JJH90
+Telefono: 3241089878
+E-mail: analopez@gmail.com
+Número de maestro: 23552
+Sueldo: 500
+Materias 
+Historia
+ Ingles
+
+
