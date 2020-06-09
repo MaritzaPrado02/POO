@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{407C76CC-43BF-476B-85BE-2359608D5139}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>menú</RootNamespace>
+    <AssemblyName>menú</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Calificaciones\Calificaciones.csproj">
+      <Project>{a70cd31f-b7a6-4d77-90b7-4faa12bf4e86}</Project>
+      <Name>Calificaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Caseta Autopista\Caseta Autopista.csproj">
+      <Project>{c4a017a0-6539-4699-900a-d6e507d3217f}</Project>
+      <Name>Caseta Autopista</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Concierto\Concierto.csproj">
+      <Project>{8433cb17-9750-452f-b83f-a797cc7a4360}</Project>
+      <Name>Concierto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\ConvertidorGrados\ConvertidorGrados.csproj">
+      <Project>{f2a20a86-bd47-412a-8892-6898ce3a23a4}</Project>
+      <Name>ConvertidorGrados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Mayor de edad\Mayor de edad.csproj">
+      <Project>{08ef142f-4b75-465d-ac7c-abf2db1ae3c4}</Project>
+      <Name>Mayor de edad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Perimetro y Area\Perimetro y Area.csproj">
+      <Project>{1022bb16-6841-4303-8684-29efc368154d}</Project>
+      <Name>Perimetro y Area</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Recibo Electricidad\Recibo Electricidad.csproj">
+      <Project>{627eabb2-a552-4218-b1e3-ed5fdbc97cfb}</Project>
+      <Name>Recibo Electricidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad 2 %28POO%29\Vacaciones Empleado\Vacaciones Empleado.csproj">
+      <Project>{952854df-51fc-46ce-8b8f-2e42ee7ab385}</Project>
+      <Name>Vacaciones Empleado</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 4\EmpleadoRestaurante\EmpleadoRestaurante.csproj">
+      <Project>{98401dca-f053-418f-887e-e940f999c64e}</Project>
+      <Name>EmpleadoRestaurante</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 4\Figura\Figura Geometricas.csproj">
+      <Project>{cc49064e-96ea-40d7-850b-f42687a7db1c}</Project>
+      <Name>Figura Geometricas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 4\InterfazEjercicio1\InterfazEjercicio1.csproj">
+      <Project>{ffc37f0b-a490-4a10-9d70-9fe63b62f512}</Project>
+      <Name>InterfazEjercicio1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 4\Juego Preguntas\Juego Preguntas.csproj">
+      <Project>{1be70951-6414-4d35-9aaa-7a8b3fe2f510}</Project>
+      <Name>Juego Preguntas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 4\Operaciones\Operaciones.csproj">
+      <Project>{18af9452-8429-4558-a30a-0c0510ce21d1}</Project>
+      <Name>Operaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 4\Vehiculos\Vehiculos.csproj">
+      <Project>{5b9ba049-06d2-4940-9e2a-220c0ec3d81a}</Project>
+      <Name>Vehiculos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\Bidimensional2%281%29\Bidimensional2%281%29.csproj">
+      <Project>{599e870e-1f5c-44b2-9e7a-4b2767697b4e}</Project>
+      <Name>Bidimensional2%281%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\Ejercicio1%28Pais%29\Ejercicio1%28Pais%29.csproj">
+      <Project>{d356b4c9-0337-466f-b598-0eabdb7a0d67}</Project>
+      <Name>Ejercicio1%28Pais%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\Ejercicio1_Propuesto\Ejercicio1_Propuesto.csproj">
+      <Project>{50c93d1c-cabf-4200-af8a-5faa6f3e61eb}</Project>
+      <Name>Ejercicio1_Propuesto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\Ejercicio2%28Paises%29\Ejercicio2%28Paises%29.csproj">
+      <Project>{0901182b-12b8-4980-9eea-5a71b7824de8}</Project>
+      <Name>Ejercicio2%28Paises%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\Ejercicio3%28Alumno-Maestro%29\Ejercicio3%28Alumno-Maestro%29.csproj">
+      <Project>{7d61b29c-4cdf-41ce-b330-00717df5f8a9}</Project>
+      <Name>Ejercicio3%28Alumno-Maestro%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\Ejercicio4%28Alumnos-Maestros%29\Ejercicio4%28Alumnos-Maestros%29.csproj">
+      <Project>{de420c84-cac1-45c4-817b-c4b9b4edc613}</Project>
+      <Name>Ejercicio4%28Alumnos-Maestros%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD.csproj">
+      <Project>{d13f4ed0-ccec-4c17-8767-eb211160c894}</Project>
+      <Name>MatrizSumaFCD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\MiPrimeraClase%28Video%29\MiPrimeraClase%28Video%29.csproj">
+      <Project>{95d9c03e-3e90-4e85-8fbc-be73118d5029}</Project>
+      <Name>MiPrimeraClase%28Video%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\NumerosMayorMenor\NumerosMayorMenor.csproj">
+      <Project>{2eae5c20-6b59-4881-8982-17c029998064}</Project>
+      <Name>NumerosMayorMenor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\ProgramaTorneo\ProgramaTorneo.csproj">
+      <Project>{1100432c-c56c-489b-b940-81af9df49421}</Project>
+      <Name>ProgramaTorneo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 5\proyectoCalificaciones\proyectoCalificaciones.csproj">
+      <Project>{c3cfa5c7-a77f-4593-a9da-1e3fe3c7e1dc}</Project>
+      <Name>proyectoCalificaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\Bidimensional2Unidad6\Bidimensional2Unidad6.csproj">
+      <Project>{cf0f44d4-4b09-48ae-8651-b6c2d604a48b}</Project>
+      <Name>Bidimensional2Unidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\Ejercicio1PaisUnidad6\Ejercicio1PaisUnidad6.csproj">
+      <Project>{d91b3ead-6ab1-4b82-8ae9-01a827214767}</Project>
+      <Name>Ejercicio1PaisUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\Ejercicio1PropuestoUnidad6\Ejercicio1PropuestoUnidad6.csproj">
+      <Project>{bea2f120-cf9b-433a-b7b3-cdfd90c300f8}</Project>
+      <Name>Ejercicio1PropuestoUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\Ejercicio2PaisesUnidad6\Ejercicio2PaisesUnidad6.csproj">
+      <Project>{b458c582-05f9-4430-9c17-561292435f0b}</Project>
+      <Name>Ejercicio2PaisesUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\Ejercicio3AlumnoMaestroUnidad6\Ejercicio3AlumnoMaestroUnidad6.csproj">
+      <Project>{26c9d073-e7b3-4205-8c07-dba633213dda}</Project>
+      <Name>Ejercicio3AlumnoMaestroUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\Ejercicio4AlumnosMaestrosUnidad6\Ejercicio4AlumnosMaestrosUnidad6.csproj">
+      <Project>{1cab95c9-8d7f-48d3-bc2a-ad2f84442c3c}</Project>
+      <Name>Ejercicio4AlumnosMaestrosUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\MatrizSumaFCDUnidad6\MatrizSumaFCDUnidad6.csproj">
+      <Project>{757b072a-cb0c-4b80-abb9-7f8247a1ec2b}</Project>
+      <Name>MatrizSumaFCDUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\MiPrimeraClaseVideoUnidad6\MiPrimeraClaseVideoUnidad6.csproj">
+      <Project>{a8b344fd-8d41-4b56-afd0-0d778590975a}</Project>
+      <Name>MiPrimeraClaseVideoUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\NumerosMayorMenorUnidad6\NumerosMayorMenorUnidad6.csproj">
+      <Project>{f5d1f861-356a-4a47-b998-c839d4042da2}</Project>
+      <Name>NumerosMayorMenorUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\ProgramaTorneoUnidad6\ProgramaTorneoUnidad6.csproj">
+      <Project>{631a8ce1-28cb-46e1-94ea-df79dbbd0e53}</Project>
+      <Name>ProgramaTorneoUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UNIDAD 6\proyectoCalificacionesUnidad6\proyectoCalificacionesUnidad6.csproj">
+      <Project>{a6138962-03e6-43b8-aa4e-3ceb16394d44}</Project>
+      <Name>proyectoCalificacionesUnidad6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad1\Embotelladora\Embotelladora.csproj">
+      <Project>{a2dc0436-f4f0-4da3-95f4-4134d0c32900}</Project>
+      <Name>Embotelladora</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

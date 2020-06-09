@@ -1,0 +1,243 @@
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\menú.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\menú.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\menú.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Embotelladora.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Embotelladora.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Embotelladora.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.csprojAssemblyReference.cache
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.frmMenu.resources
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.Properties.Resources.resources
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.csproj.GenerateResource.cache
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.csproj.CopyComplete
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.exe
+D:\POO CATALOGO\catalogoProgramas\menú\obj\Debug\menú.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Calificaciones.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Calificaciones.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Calificaciones.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Caseta Autopista.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Concierto.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Caseta Autopista.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Caseta Autopista.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Concierto.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Concierto.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ConvertidorGrados.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ConvertidorGrados.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ConvertidorGrados.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Mayor de edad.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Mayor de edad.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Mayor de edad.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\EmpleadoRestaurante.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Perimetro y Area.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Recibo Electricidad.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Vacaciones Empleado.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Perimetro y Area.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Perimetro y Area.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Recibo Electricidad.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Recibo Electricidad.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Vacaciones Empleado.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Vacaciones Empleado.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\EmpleadoRestaurante.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\EmpleadoRestaurante.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Figura.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Figura.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Figura.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\InterfazEjercicio1.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Juego Preguntas.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Operaciones.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Vehiculos.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\InterfazEjercicio1.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\InterfazEjercicio1.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Juego Preguntas.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Juego Preguntas.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Operaciones.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Operaciones.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Vehiculos.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Vehiculos.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Bidimensional2(1).exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1(Pais).exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1_Propuesto.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio2(Paises).exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio3(Alumno-Maestro).exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio4(Alumnos-Maestros).exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Bidimensional2(1).pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Bidimensional2(1).exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1(Pais).pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1(Pais).exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1_Propuesto.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1_Propuesto.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio2(Paises).pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio2(Paises).exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio3(Alumno-Maestro).pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio3(Alumno-Maestro).exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio4(Alumnos-Maestros).pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio4(Alumnos-Maestros).exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCD.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MiPrimeraClase(Video).exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenor.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ProgramaTorneo.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\proyectoCalificaciones.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCD.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCD.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MiPrimeraClase(Video).pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MiPrimeraClase(Video).exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenor.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenor.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ProgramaTorneo.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ProgramaTorneo.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\proyectoCalificaciones.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\proyectoCalificaciones.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Bidimensional2Unidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1PaisUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1PropuestoUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Bidimensional2Unidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Bidimensional2Unidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1PaisUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1PaisUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1PropuestoUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio1PropuestoUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio2PaisesUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio4AlumnosMaestrosUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCDUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MiPrimeraClaseVideoUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenorUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ProgramaTorneoUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\proyectoCalificacionesUnidad6.exe
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio2PaisesUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio2PaisesUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio4AlumnosMaestrosUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\Ejercicio4AlumnosMaestrosUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCDUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCDUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MiPrimeraClaseVideoUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\MiPrimeraClaseVideoUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenorUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenorUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ProgramaTorneoUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\ProgramaTorneoUnidad6.exe.config
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\proyectoCalificacionesUnidad6.pdb
+D:\POO CATALOGO\catalogoProgramas\menú\bin\Debug\proyectoCalificacionesUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\menú.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\menú.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\menú.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Bidimensional2(1).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Bidimensional2Unidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Calificaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Caseta Autopista.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Concierto.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ConvertidorGrados.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1(Pais).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1PaisUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1PropuestoUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1_Propuesto.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio2(Paises).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio2PaisesUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio3(Alumno-Maestro).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio4(Alumnos-Maestros).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio4AlumnosMaestrosUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Embotelladora.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\EmpleadoRestaurante.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Figura.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\InterfazEjercicio1.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Juego Preguntas.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCD.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCDUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Mayor de edad.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MiPrimeraClase(Video).exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MiPrimeraClaseVideoUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenor.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenorUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Operaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Perimetro y Area.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ProgramaTorneo.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ProgramaTorneoUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\proyectoCalificaciones.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\proyectoCalificacionesUnidad6.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Recibo Electricidad.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Vacaciones Empleado.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Vehiculos.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Calificaciones.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Calificaciones.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Caseta Autopista.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Caseta Autopista.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Concierto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Concierto.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ConvertidorGrados.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ConvertidorGrados.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Mayor de edad.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Mayor de edad.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Perimetro y Area.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Perimetro y Area.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Recibo Electricidad.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Recibo Electricidad.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Vacaciones Empleado.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Vacaciones Empleado.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\EmpleadoRestaurante.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\EmpleadoRestaurante.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Figura.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Figura.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\InterfazEjercicio1.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\InterfazEjercicio1.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Juego Preguntas.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Juego Preguntas.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Operaciones.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Operaciones.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Vehiculos.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Vehiculos.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Bidimensional2(1).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Bidimensional2(1).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1(Pais).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1(Pais).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1_Propuesto.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1_Propuesto.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio2(Paises).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio2(Paises).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio3(Alumno-Maestro).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio3(Alumno-Maestro).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio4(Alumnos-Maestros).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio4(Alumnos-Maestros).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCD.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCD.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MiPrimeraClase(Video).pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MiPrimeraClase(Video).exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenor.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenor.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ProgramaTorneo.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ProgramaTorneo.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\proyectoCalificaciones.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\proyectoCalificaciones.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Bidimensional2Unidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Bidimensional2Unidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1PaisUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1PaisUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1PropuestoUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio1PropuestoUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio2PaisesUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio2PaisesUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio3AlumnoMaestroUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio4AlumnosMaestrosUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Ejercicio4AlumnosMaestrosUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCDUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MatrizSumaFCDUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MiPrimeraClaseVideoUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\MiPrimeraClaseVideoUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenorUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\NumerosMayorMenorUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ProgramaTorneoUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\ProgramaTorneoUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\proyectoCalificacionesUnidad6.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\proyectoCalificacionesUnidad6.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Embotelladora.pdb
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\bin\Debug\Embotelladora.exe.config
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.csprojAssemblyReference.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.frmMenu.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.Properties.Resources.resources
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.csproj.GenerateResource.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.csproj.CoreCompileInputs.cache
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.csproj.CopyComplete
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.exe
+C:\Users\Maritza\Documents\POO (REPOSITORIO)\POO\catalogoProgramas\menú\obj\Debug\menú.pdb
